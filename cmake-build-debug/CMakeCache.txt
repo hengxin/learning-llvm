@@ -290,13 +290,13 @@ eva-llvm_IS_TOP_LEVEL:STATIC=OFF
 eva-llvm_SOURCE_DIR:STATIC=/mnt/d/compilers/learning-llvm/eva-llvm
 
 //Value Computed by CMake
-learning_llvm_BINARY_DIR:STATIC=/mnt/d/compilers/learning-llvm/cmake-build-debug/llvm-in-class
+learning_llvm_BINARY_DIR:STATIC=/mnt/d/compilers/learning-llvm/cmake-build-debug
 
 //Value Computed by CMake
-learning_llvm_IS_TOP_LEVEL:STATIC=OFF
+learning_llvm_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-learning_llvm_SOURCE_DIR:STATIC=/mnt/d/compilers/learning-llvm/llvm-in-class
+learning_llvm_SOURCE_DIR:STATIC=/mnt/d/compilers/learning-llvm
 
 //Path to a file.
 zstd_INCLUDE_DIR:PATH=/usr/include
